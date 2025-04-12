@@ -1,0 +1,22 @@
+{
+    "Fwd PSH Flags": "fwd_psh_flags",
+    "Fwd URG Flags": "fwd_urg_flags",
+    "FIN Flag Cnt": "fin_flag_cnt",
+    "SYN Flag Cnt": "syn_flag_cnt",
+    "RST Flag Cnt": "rst_flag_cnt",
+    "PSH Flag Cnt": "psh_flag_cnt",
+    "ACK Flag Cnt": "ack_flag_cnt",
+    "URG Flag Cnt": "urg_flag_cnt",
+    "CWE Flag Count": "cwe_flag_count",
+    "ECE Flag Cnt": "ece_flag_cnt",
+    "Dst Port": "dst_port",
+    "Timestamp": "timestamp",
+    "Bwd PSH Flags": "bwd_psh_flags",
+    "Bwd URG Flags": "bwd_urg_flags",
+    "Fwd Byts/b Avg": "fwd_byts_per_b_avg",
+    "Fwd Pkts/b Avg": "fwd_pkts_per_b_avg",
+    "Fwd Blk Rate Avg": "fwd_blk_rate_avg",
+    "Bwd Byts/b Avg": "bwd_byts_per_b_avg",
+    "Bwd Pkts/b Avg": "bwd_pkts_per_b_avg",
+    "Bwd Blk Rate Avg": "bwd_blk_rate_avg"
+}
